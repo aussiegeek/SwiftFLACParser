@@ -1,0 +1,4 @@
+module flac {
+	umbrella header "flac.h"
+	link "FLAC"
+}

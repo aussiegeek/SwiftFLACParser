@@ -1,0 +1,9 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+.swiftpm
+xcuserdata/
+Samples/*.flac
+Samples/*.wav
+Package.resovled
